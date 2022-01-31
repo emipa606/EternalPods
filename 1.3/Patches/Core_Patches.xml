@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Removes the lifespan of glowpods -->
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/ThingDef[defName="GlowPod"]/comps/li[@Class="CompProperties_Lifespan"]</xpath>
+  </Operation>
+</Patch>
