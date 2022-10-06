@@ -15,12 +15,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1374861699
 **Makes glow pods last forever**.
 
 That's it.
-*This is not a good mod*.
+[strike]*This is not a good mod*.[/strike]
 
 Non-Steam: https://www.dropbox.com/s/fgngah85oicf98t/EternalPods.zip?dl=0
 
 Report bugs in the comments if you somehow find any.
-Probably not compatible with any mod that modifies the def for glow pods.
+[strike]Probably not compatible with any mod that modifies the def for glow pods.[/strike]
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -32,5 +32,6 @@ Probably not compatible with any mod that modifies the def for glow pods.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
